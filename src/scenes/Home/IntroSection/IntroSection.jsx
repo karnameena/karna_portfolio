@@ -20,7 +20,7 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a React.js Developer with <b>4.7 years</b> of experience{" "}
+              I'm a React.js Developer <b></b>
               <br />
               It's fun for me to bring new concepts to life. I consider myself
               fortunate to work in web Apps my work has a direct impact on the
@@ -57,7 +57,7 @@ const IntroSection = () => {
       </div>
 
       <div className={s.introSocial}>
-        <h1>FIND ME ON</h1>
+        <h1>Let’s Catch Up Here</h1>
         <p>
           Feel free to <span className={s.purple}>connect </span>with me
         </p>
